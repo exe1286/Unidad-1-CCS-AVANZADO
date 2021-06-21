@@ -1,0 +1,43 @@
+.bordeInteres {
+  border: solid;
+  background-color: royalblue;
+  display: block;
+  width: 302px;
+  border-radius: 10px;
+  margin-top: 2px;
+}
+.cvFondo {
+  background: #3629c9;
+  background: linear-gradient(163deg, #3629c9 0%, #d3e8eb 80%);
+  background: -webkit-linear-gradient(163deg, #3629c9 0%, #d3e8eb 80%);
+  background: -moz-linear-gradient(163deg, #3629c9 0%, #d3e8eb 80%);
+}
+
+.imgCv {
+  border: ridge;
+  box-shadow: 0px 0px 10px;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+.sobremibox {
+  background-color: mediumslateblue;
+
+  border-radius: 10px;
+  border: solid;
+  display: block;
+  width: 302px;
+  margin-bottom: 2px;
+}
+.perfil {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-gap: 29px;
+  -webkit-column-gap: 29px;
+  -moz-column-gap: 29px;
+  column-rule: 3px dotted #323dc3;
+  -webkit-column-rule: 3px dotted #323dc3;
+  -moz-column-rule: 3px dotted #323dc3;
+}
